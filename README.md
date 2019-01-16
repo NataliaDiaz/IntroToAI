@@ -1,5 +1,5 @@
-# IntroToAI
-Course Introduction to Artificial Intelligence at ISEP.fr February 2019.
+# Introduction  to Artificial Intelligence Course (Introduction a l'Intelligence Artificielle IG2410)
+www.ISEP.fr Institut Supérieur d'Electronique de Paris), February 2019.
 
 
 ## Logistics: 
@@ -97,8 +97,7 @@ Jupyter notebooks to be corrected the following week. Students presenting soluti
 
 
 ## Tutorials:
-1 https://github.com/aimacode/aima-python  
-
+1 Python refresher:  https://docs.google.com/document/d/1VrJuvq3yNw09qr9NXSrVXovzbj-fT8X4qNkpFdWU9uY/edit?usp=sharing
 
 
 ## Project ideas:
@@ -135,9 +134,7 @@ https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017/course/,
 
 and 
 
-Pieter Abbeel Berkeley course: Fall'18 CS188 Artificial Intelligence are now available here:
-
-https://inst.eecs.berkeley.edu/~cs188/fa18/
+Pieter Abbeel Berkeley course Fall'18 CS188 Artificial Intelligence
 
 Grokking Deep Learning by Andrew Trask: https://www.manning.com/books/grokking-deep-learning and notebooks: https://github.com/iamtrask/Grokking-Deep-Learning
 
