@@ -68,7 +68,7 @@ Planification pour étudiants en A2 (deuxième année cycle ingénieur):
  Apprentissage supervisé : arbres de décisions, réseaux de neurones. 
  Apprentissage non-supervisé. 
  
-(30 étudiants, 42h de présence (14 semaines x 3hrs), reparties en cours-TD-TP). 
+(30 étudiants, 42h de présence (14 semaines x 3hrs), reparties en cours-TD-TP-> 47 total). 
 
 
 ## Prerequisites 
