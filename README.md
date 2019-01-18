@@ -18,10 +18,14 @@ Week 3: Heuristic search, greedy search, A* algorithm, stochastic search
 Week 4: Adversarial search, game playing
 
 Week 5: Constraint satisfaction problems, Knowledge Representation (expert systems, description logics, knowledge graphs, ontologies and fuzzy ontologies) 
+Tutorial: Pizzas in 10 minutes - Protege Tutorial
+
 
 Week 6: Machine Learning 1: basic concepts, linear models, K nearest neighbors, decision trees, overfitting, supervised and unsupervised learning
+Tutorial on regression: https://nbviewer.jupyter.org/github/mar-one/ACM-Python-Tutorials-KAUST-2015/blob/master/basics/project_linear_regression.ipynb
 
-Week 7: Machine Learning 2: neural networks, Markov decision processes, reinforcement learning. PyTorch Tutorial
+Week 7: Machine Learning 2: Neural Networks, Markov decision processes, Reinforcement Learning. PyTorch Tutorial
+Slides: CNN Ingredients: https://docs.google.com/presentation/d/1ZQHChgyv4YjmrVpl77il1FKD-CuYd0gTOLCzwmnS2Sg/edit?usp=sharing
 
 Week 8: Independent project work 
 
@@ -126,26 +130,25 @@ All Algorithms: http://aima.cs.berkeley.edu/algorithms.pdf
 
 Course adapted from:
 
-http://aima.cs.berkeley.edu/
+http://aima.cs.berkeley.edu/ AIMA Course (P. Norvig and S. Russell).
 
-https://people.eecs.berkeley.edu/~russell/slides/, 
+Berkeley Artificial Intelligence course (P. Abbeel and D. Klein). 
 
-https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017/course/,
+Other support courses:
 
-and 
+-https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017/course/,
 
-Pieter Abbeel Berkeley course Fall'18 CS188 Artificial Intelligence
-
-Grokking Deep Learning by Andrew Trask: https://www.manning.com/books/grokking-deep-learning and notebooks: https://github.com/iamtrask/Grokking-Deep-Learning
-
-Other support courses: 
 -Hinton's MOOC "Neural Networks for Machine Learning" prepared in 2012 and is now seriously out of date; "discontinued but the lectures are still a good introduction to many of the basic ideas" https://www.cs.toronto.edu/~hinton/coursera_lectures.html
 
-https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017/course/
+-https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017/course/
 
-Related course at ENSTA:  https://synapses.ensta-paristech.fr/catalogue/2017-2018/ue/1650/INT23-introduction-a-l-intelligence-artificielle  
+-Related course at ENSTA:  https://synapses.ensta-paristech.fr/catalogue/2017-2018/ue/1650/INT23-introduction-a-l-intelligence-artificielle  
 
 
+## Books
+1- Artificial Intelligence: A Modern Approach (Third edition) by Stuart Russell and Peter Norvig http://aima.cs.berkeley.edu
+
+2- Grokking Deep Learning by Andrew Trask: https://www.manning.com/books/grokking-deep-learning and notebooks: https://github.com/iamtrask/Grokking-Deep-Learning
 
 ## Miscelanea
 
@@ -157,6 +160,4 @@ https://experiments.withgoogle.com/collection/ai
 ML for Kids: https://github.com/IBM/taxinomitis/
 
 More: https://twitter.com/pyoudeyer/status/1084826369383694337
-
-
 
