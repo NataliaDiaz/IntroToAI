@@ -18,6 +18,7 @@ Week 3: Heuristic search, greedy search, A* algorithm, stochastic search
 Week 4: Adversarial search, game playing
 
 Week 5: Constraint satisfaction problems, Knowledge Representation (expert systems, description logics, knowledge graphs, ontologies and fuzzy ontologies) 
+
 Tutorial: Pizzas in 10 minutes - Protege Tutorial
 
 
@@ -58,8 +59,11 @@ Planification pour étudiants en A2 (deuxième année cycle ingénieur):
  Résolution de problèmes 
  
  Stratégies d'exploration non informées. 
+ 
  Stratégies d'exploration informées 
+ 
  Problèmes à satisfaction de contraintes 
+ 
  Exploration en situation d'adversité (les jeux) 
  
  Agents fondés sur les connaissances 
@@ -70,6 +74,7 @@ Planification pour étudiants en A2 (deuxième année cycle ingénieur):
  Apprentissage 
  
  Apprentissage supervisé : arbres de décisions, réseaux de neurones. 
+ 
  Apprentissage non-supervisé. 
  
 (30 étudiants, 42h de présence (14 semaines x 3hrs), reparties en cours-TD-TP-> 47 total). 
@@ -79,13 +84,13 @@ Planification pour étudiants en A2 (deuxième année cycle ingénieur):
 
 Students are required to have the following prerequisites: 
 
--Linear algebra (vectors, matrices, derivatives)
+- Linear algebra (vectors, matrices, derivatives)
 
--Calculus
+- Calculus
 
--Basic probability theory
+- Basic probability theory
 
--Python programming
+- Python programming
 
 The course will allow students to dive into Python while solving AI problems and learning its applications. Programming assignments will be in Python.
 
@@ -106,11 +111,11 @@ Jupyter notebooks to be corrected the following week. Students presenting soluti
 
 ## Project ideas:
 
--Reproducing SPINNING UP tutorials
+- Reproducing SPINNING UP tutorials
 
--Migrating them to PyTorch
+- Migrating them to PyTorch
 
--Implementing a Roomba cleaner simulator (see http://maxbareiss.com/blog/)  https://github.com/MaxBareiss/super-roomba-gym (old version not python: https://github.com/MaxBareiss/super-roomba). Real roomba: https://github.com/NickWaterton/Roomba980-Python
+- Implementing a Roomba cleaner simulator (see http://maxbareiss.com/blog/)  https://github.com/MaxBareiss/super-roomba-gym (old version not python: https://github.com/MaxBareiss/super-roomba). Real roomba: https://github.com/NickWaterton/Roomba980-Python
 
 What is your project idea?
 
@@ -136,19 +141,20 @@ Berkeley Artificial Intelligence course (P. Abbeel and D. Klein).
 
 Other support courses:
 
--https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017/course/,
+- https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017/course/,
 
--Hinton's MOOC "Neural Networks for Machine Learning" prepared in 2012 and is now seriously out of date; "discontinued but the lectures are still a good introduction to many of the basic ideas" https://www.cs.toronto.edu/~hinton/coursera_lectures.html
+- Hinton's MOOC "Neural Networks for Machine Learning" prepared in 2012 and is now seriously out of date; "discontinued but the lectures are still a good introduction to many of the basic ideas"  https://www.cs.toronto.edu/~hinton/coursera_lectures.html
 
--https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017/course/
+- https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017/course/
 
--Related course at ENSTA:  https://synapses.ensta-paristech.fr/catalogue/2017-2018/ue/1650/INT23-introduction-a-l-intelligence-artificielle  
+- Related course at ENSTA:  https://synapses.ensta-paristech.fr/catalogue/2017-2018/ue/1650/INT23-introduction-a-l-intelligence-artificielle  
 
 
 ## Books
-1- Artificial Intelligence: A Modern Approach (Third edition) by Stuart Russell and Peter Norvig http://aima.cs.berkeley.edu
+1 - Artificial Intelligence: A Modern Approach (Third edition) by Stuart Russell and Peter Norvig http://aima.cs.berkeley.edu
 
-2- Grokking Deep Learning by Andrew Trask: https://www.manning.com/books/grokking-deep-learning and notebooks: https://github.com/iamtrask/Grokking-Deep-Learning
+2 - Grokking Deep Learning by Andrew Trask: https://www.manning.com/books/grokking-deep-learning and notebooks: https://github.com/iamtrask/Grokking-Deep-Learning
+Very recommended to get the basis of deep learning before committing to learn any framework (basics in numpy). If you want a discounted book, ask me.
 
 ## Miscelanea
 
